@@ -1,0 +1,34 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||coinbase.com
+||binance.com
+||huobi.pro
+||t.me
+||tensorflow.org
+||grammarly.com
+||okex.com
+||angular.io
+||safaribooksonline.com
+||polymer-project.org
+||bitbucket.org
+||videox.tv
+||telegram.org
+||fcw.xxx
+||is.gd
+||w3schools.com
+||docker.com
+||rvm.io
+||discourse.org
+||imagehosting.biz
+||duanzhihu.com
+||tumblr.com
+||medium.com
+||gitbooks.io
+||mycnnews.com
+||bandwagonhost.com
+||altrec.com
+||darpa.mil
+||fastpic.ru
+||fxnetworks.com
+||hulu.com
+||huluim.com
